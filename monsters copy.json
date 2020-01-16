@@ -6005,42 +6005,6 @@
       "age": 13,
       "description": "131313",
       "id": 1001
-    },
-    {
-      "name": "Basri",
-      "age": 2,
-      "description": "somedescription",
-      "id": 1002
-    },
-    {
-      "name": "puppy_name",
-      "age": "22222",
-      "description": "somedescription",
-      "id": 1003
-    },
-    {
-      "name": "Team Name",
-      "age": "22222",
-      "description": "somedescription",
-      "id": 1004
-    },
-    {
-      "name": "Team Name222",
-      "age": "22222",
-      "description": "222",
-      "id": 1005
-    },
-    {
-      "name": "puppy_name",
-      "age": "333",
-      "description": "somedescription",
-      "id": 1006
-    },
-    {
-      "name": "puppy_name",
-      "age": "22222",
-      "description": "somedescription",
-      "id": 1007
     }
   ]
 }
