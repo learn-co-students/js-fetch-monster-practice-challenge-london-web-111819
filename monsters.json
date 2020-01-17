@@ -1,122 +1,20 @@
 {
   "monsters": [
     {
-      "name": "Chronos",
-      "age": 4005.302453418598,
-      "description": "Effulgence eldritch shunned foetid. Ululate gibbering tenebrous foetid iridescence daemoniac. Stench nameless gambrel. Amorphous furtive iridescence noisome. Foetid mortal nameless.",
-      "id": 1
-    },
-    {
-      "name": "Tartarus",
-      "age": 1874.4913565609456,
-      "description": "Cyclopean swarthy amorphous singular accursed furtive non-euclidean stygian. Swarthy gibbering charnel eldritch daemoniac gibbous. Cyclopean lurk hideous tentacles squamous immemorial tenebrous mortal. Madness tentacles furtive mortal foetid decadent. Foetid immemorial comprehension.",
-      "id": 2
-    },
-    {
-      "name": "Hemera",
-      "age": 4094.8375978925988,
-      "description": "Dank immemorial abnormal gambrel. Cat lurk unutterable. Abnormal tenebrous ululate. Nameless swarthy manuscript eldritch indescribable accursed antediluvian decadent.",
-      "id": 3
-    },
-    {
-      "name": "Tartarus",
-      "age": 2364.163894640274,
-      "description": "Fungus blasphemous immemorial indescribable singular cat foetid. Cyclopean loathsome swarthy tenebrous madness nameless abnormal fungus. Daemoniac fungus fainted.",
-      "id": 4
-    },
-    {
-      "name": "Pontus",
-      "age": 4838.903020812994,
-      "description": "Mortal madness foetid. Foetid hideous antediluvian non-euclidean comprehension nameless lurk. Squamous shunned accursed amorphous.",
-      "id": 5
-    },
-    {
-      "name": "Nemesis",
-      "age": 309.71166432846627,
-      "description": "Mortal accursed unnamable indescribable antiquarian dank antediluvian. Cat dank unmentionable foetid antediluvian furtive. Nameless loathsome stygian tentacles abnormal antediluvian. Antiquarian iridescence daemoniac immemorial fungus furtive effulgence. Noisome ululate fungus hideous.",
-      "id": 6
-    },
-    {
-      "name": "Phanes",
-      "age": 61.3504188391221,
-      "description": "Gibbering accursed comprehension manuscript furtive madness cyclopean. Cyclopean ululate effulgence singular dank noisome unnamable. Furtive mortal manuscript indescribable foetid singular charnel stygian.",
-      "id": 7
-    },
-    {
-      "name": "Nesoi",
-      "age": 4885.771945693918,
-      "description": "Unnamable non-euclidean eldritch gibbering iridescence amorphous. Tenebrous antiquarian amorphous abnormal unnamable manuscript. Abnormal amorphous fungus loathsome stench. Effulgence tenebrous amorphous unmentionable.",
-      "id": 8
-    },
-    {
-      "name": "Gaia",
-      "age": 4892.092518802611,
-      "description": "Effulgence antediluvian tentacles abnormal. Fungus cyclopean unutterable unmentionable furtive nameless tenebrous immemorial. Furtive fungus fainted. Fainted gibbering swarthy amorphous madness antediluvian cyclopean accursed. Cyclopean indescribable accursed gambrel tentacles noisome.",
-      "id": 9
-    },
-    {
-      "name": "Hypnos",
-      "age": 3856.8591126857073,
-      "description": "Mortal unutterable daemoniac tenebrous dank iridescence madness. Manuscript stench spectral singular blasphemous decadent. Blasphemous immemorial ululate eldritch iridescence.",
-      "id": 10
-    },
-    {
-      "name": "Nyx",
-      "age": 387.52969067096143,
-      "description": "Foetid iridescence decadent antediluvian dank singular gibbering effulgence. Noisome immemorial fungus comprehension gibbous indescribable effulgence. Indescribable stench lurk gibbering manuscript spectral comprehension. Unutterable blasphemous comprehension manuscript cat.",
-      "id": 11
-    },
-    {
-      "name": "Uranus",
-      "age": 4059.5196233932415,
-      "description": "Effulgence accursed decadent. Antiquarian nameless accursed. Daemoniac blasphemous non-euclidean cat. Iridescence eldritch hideous non-euclidean.",
-      "id": 12
-    },
-    {
-      "name": "Thanatos",
-      "age": 4929.0138208295875,
-      "description": "Gambrel decadent ululate charnel indescribable cyclopean. Non-euclidean unutterable effulgence stygian madness antediluvian loathsome unmentionable. Madness antediluvian blasphemous fungus lurk gibbering unmentionable. Unutterable antiquarian non-euclidean accursed singular cat.",
-      "id": 13
-    },
-    {
-      "name": "Ourea",
-      "age": 3091.241149177922,
-      "description": "Immemorial daemoniac gibbering gibbous noisome fainted swarthy unmentionable. Accursed cyclopean lurk manuscript daemoniac swarthy. Eldritch amorphous indescribable iridescence antiquarian fungus. Lurk tenebrous iridescence cat. Shunned furtive decadent.",
-      "id": 14
-    },
-    {
-      "name": "Aion",
-      "age": 950.7511237463813,
-      "description": "Manuscript abnormal unmentionable accursed spectral blasphemous lurk fainted. Abnormal fainted stench cyclopean. Tentacles fainted unmentionable unnamable. Charnel spectral singular fungus. Unutterable hideous decadent abnormal madness.",
-      "id": 15
-    },
-    {
-      "name": "Nesoi",
-      "age": 4427.2687813111,
-      "description": "Eldritch madness antiquarian antediluvian squamous manuscript cyclopean. Mortal immemorial indescribable comprehension. Fungus non-euclidean unmentionable manuscript iridescence.",
-      "id": 16
-    },
-    {
       "name": "Eros",
       "age": 1506.615541567781,
       "description": "Furtive daemoniac squamous decadent cyclopean manuscript fainted. Gibbering ululate lurk blasphemous gibbous furtive immemorial. Mortal fainted manuscript comprehension unnamable decadent. Stygian tentacles immemorial loathsome singular blasphemous noisome fungus.",
       "id": 17
     },
     {
-      "name": "Pontus",
-      "age": 3412.686845928414,
+      "name": "Pontus33",
+      "age": "3412.686845928414",
       "description": "Gibbous mortal eldritch tentacles accursed. Antiquarian eldritch effulgence ululate singular daemoniac amorphous. Madness charnel stench gibbering gibbous swarthy. Noisome gibbous madness amorphous mortal accursed. Accursed madness eldritch daemoniac loathsome unnamable.",
       "id": 18
     },
     {
-      "name": "Ourea",
-      "age": 4439.046693657295,
-      "description": "Eldritch non-euclidean stench gibbous swarthy amorphous. Antediluvian cat tentacles. Loathsome eldritch antiquarian unnamable decadent.",
-      "id": 19
-    },
-    {
-      "name": "Ananke",
-      "age": 1327.8013348870193,
+      "name": "Ananke3333",
+      "age": "1327.8013348870193",
       "description": "Spectral furtive blasphemous mortal unmentionable ululate non-euclidean gibbering. Fainted antiquarian accursed squamous comprehension antediluvian stygian madness. Immemorial madness foetid.",
       "id": 20
     },
@@ -6001,46 +5899,22 @@
       "id": 1000
     },
     {
-      "name": "13",
-      "age": 13,
-      "description": "131313",
+      "name": "puppy_name",
+      "age": "22222",
+      "description": "somedescription",
       "id": 1001
     },
     {
-      "name": "Basri",
-      "age": 2,
-      "description": "somedescription",
+      "name": "Team Name",
+      "age": "2",
+      "description": "ssssss",
       "id": 1002
     },
     {
-      "name": "puppy_name",
-      "age": "22222",
-      "description": "somedescription",
+      "name": "puppy_name33",
+      "age": "33",
+      "description": "3333",
       "id": 1003
-    },
-    {
-      "name": "Team Name",
-      "age": "22222",
-      "description": "somedescription",
-      "id": 1004
-    },
-    {
-      "name": "Team Name222",
-      "age": "22222",
-      "description": "222",
-      "id": 1005
-    },
-    {
-      "name": "puppy_name",
-      "age": "333",
-      "description": "somedescription",
-      "id": 1006
-    },
-    {
-      "name": "puppy_name",
-      "age": "22222",
-      "description": "somedescription",
-      "id": 1007
     }
   ]
 }
